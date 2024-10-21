@@ -63,5 +63,5 @@ pip install 'git+https://github.com/saadnaeem-dev/pytorch-linear-warmup-cosine-a
 ```
 #### start training
 ```python
-python train.py --data_path path/to/your/data --model_name mytrain --num_epochs 60 --batch_size 12 --lr 0.0005 5e-6 31 0.0001 1e-5 31
+python train.py --data_path path/to/your/data --model_name mytrain --num_epochs 60 --batch_size 16 --lr 0.0005 5e-6 31 0.0001 1e-5 31
 ```
