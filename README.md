@@ -39,7 +39,7 @@ Click on the links in the 'model' column to download a trained model.
 
 ----------
 ### Data Preparation
-Please refer to Monodepth2![](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
+Please refer to ![Monodepth2](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
 
 ----------
 ### Single Image Test
